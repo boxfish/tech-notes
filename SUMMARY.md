@@ -2,8 +2,7 @@
 
 ## GoLang
 
-* [Introduction](README.md)
-* [The Go Programming Language](chapter1.md)
+* [The Go Programming Language](gopl.md)
 
 ## Data Structures and Algorithms
 
