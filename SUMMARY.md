@@ -1,8 +1,8 @@
 # Summary
+* [Introduction](README.md)
 
 ## GoLang
 
-* [Introduction](README.md)
 * [The Go Programming Language](gopl.md)
   * [2 Program Structure](gopl/2-program-structure.md)
 
