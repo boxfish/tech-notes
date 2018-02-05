@@ -1,9 +1,9 @@
 # Summary
+## Overview
 * [Introduction](README.md)
 
 ## GoLang
-
-* [The Go Programming Language](gopl.md)
+* [The Go Programming Language](gopl/index.md)
   * [2 Program Structure](gopl/2-program-structure.md)
 
 ## Data Structures and Algorithms
