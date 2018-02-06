@@ -13,6 +13,12 @@
   * [9 Concurrency with Shared Variables](gopl/9-concurrency-with-shared-variables.md)
   * [10 Packages and the Go tool](gopl/10-packages-and-go-tool.md)
   * [11 Testing](gopl/11-testing.md)
+* [Resources](go-resources.md)
 
 ## Data Structures and Algorithms
 
+## Security
+* [Authentication](security/authentication.md)
+
+## Misc
+* [Data Stores](data-stores.md)
